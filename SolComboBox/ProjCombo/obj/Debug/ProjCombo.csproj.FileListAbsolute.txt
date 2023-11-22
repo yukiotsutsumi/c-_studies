@@ -1,0 +1,18 @@
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\bin\Debug\ProjCombo.exe.config
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\bin\Debug\ProjCombo.exe
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\bin\Debug\ProjCombo.pdb
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.csprojResolveAssemblyReference.cache
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.Form1.resources
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.Properties.Resources.resources
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.csproj.GenerateResource.Cache
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.exe
+D:\2°módulo\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.pdb
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\bin\Debug\ProjCombo.exe.config
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.exe
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.pdb
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\bin\Debug\ProjCombo.exe
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\bin\Debug\ProjCombo.pdb
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.csprojResolveAssemblyReference.cache
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.Form1.resources
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.Properties.Resources.resources
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\SolCombo\ProjCombo\obj\Debug\ProjCombo.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\bin\Debug\projCalculo do IMC.exe.config
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\bin\Debug\projCalculo do IMC.exe
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\bin\Debug\projCalculo do IMC.pdb
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo_do_IMC.formIMC.resources
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo_do_IMC.Properties.Resources.resources
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.csproj.GenerateResource.Cache
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.exe
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.pdb
+C:\Users\street_labs\Desktop\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.csprojResolveAssemblyReference.cache
+D:\solutCalculo do IMC\projCalculo do IMC\bin\Debug\projCalculo do IMC.exe.config
+D:\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.exe
+D:\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.pdb
+D:\solutCalculo do IMC\projCalculo do IMC\bin\Debug\projCalculo do IMC.exe
+D:\solutCalculo do IMC\projCalculo do IMC\bin\Debug\projCalculo do IMC.pdb
+D:\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.csprojResolveAssemblyReference.cache
+D:\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo_do_IMC.formIMC.resources
+D:\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo_do_IMC.Properties.Resources.resources
+D:\solutCalculo do IMC\projCalculo do IMC\obj\Debug\projCalculo do IMC.csproj.GenerateResource.Cache
+D:\2°módulo\PC1\C#\Interface\Felipe_Andre\projCalculo do IMC\bin\Debug\projCalculo do IMC.exe.config
+D:\2°módulo\PC1\C#\Interface\Felipe_Andre\projCalculo do IMC\obj\Debug\projCalculo do IMC.exe
+D:\2°módulo\PC1\C#\Interface\Felipe_Andre\projCalculo do IMC\obj\Debug\projCalculo do IMC.pdb

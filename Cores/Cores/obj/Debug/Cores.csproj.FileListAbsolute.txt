@@ -1,0 +1,9 @@
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\bin\Debug\Cores.exe.config
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\bin\Debug\Cores.exe
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\bin\Debug\Cores.pdb
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\obj\Debug\Cores.csprojResolveAssemblyReference.cache
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\obj\Debug\Cores.Properties.Resources.resources
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\obj\Debug\Cores.csproj.GenerateResource.Cache
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\obj\Debug\Cores.exe
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\obj\Debug\Cores.pdb
+c:\users\street_labs\documents\visual studio 2015\Projects\Cores\Cores\obj\Debug\Cores.Micalateia.resources

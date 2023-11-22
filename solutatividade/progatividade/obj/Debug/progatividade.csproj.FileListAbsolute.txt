@@ -1,0 +1,9 @@
+C:\Users\street_labs\Desktop\solutatividade\progatividade\bin\Debug\progatividade.exe.config
+C:\Users\street_labs\Desktop\solutatividade\progatividade\bin\Debug\progatividade.exe
+C:\Users\street_labs\Desktop\solutatividade\progatividade\bin\Debug\progatividade.pdb
+C:\Users\street_labs\Desktop\solutatividade\progatividade\obj\Debug\progatividade.csprojResolveAssemblyReference.cache
+C:\Users\street_labs\Desktop\solutatividade\progatividade\obj\Debug\progatividade.formCarrinho.resources
+C:\Users\street_labs\Desktop\solutatividade\progatividade\obj\Debug\progatividade.Properties.Resources.resources
+C:\Users\street_labs\Desktop\solutatividade\progatividade\obj\Debug\progatividade.csproj.GenerateResource.Cache
+C:\Users\street_labs\Desktop\solutatividade\progatividade\obj\Debug\progatividade.exe
+C:\Users\street_labs\Desktop\solutatividade\progatividade\obj\Debug\progatividade.pdb

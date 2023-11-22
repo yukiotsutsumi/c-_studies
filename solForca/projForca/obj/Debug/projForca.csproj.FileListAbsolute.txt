@@ -1,0 +1,36 @@
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\bin\Debug\projForca.exe.config
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\bin\Debug\projForca.exe
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\bin\Debug\projForca.pdb
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\obj\Debug\projForca.csprojResolveAssemblyReference.cache
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\obj\Debug\projForca.Form1.resources
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\obj\Debug\projForca.Properties.Resources.resources
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\obj\Debug\projForca.csproj.GenerateResource.Cache
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\obj\Debug\projForca.exe
+c:\users\street_labs\documents\visual studio 2015\Projects\solForca\projForca\obj\Debug\projForca.pdb
+D:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\bin\Debug\projForca.exe.config
+D:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.exe
+D:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.pdb
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\bin\Debug\projForca.exe.config
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\bin\Debug\projForca.exe
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\bin\Debug\projForca.pdb
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.csprojResolveAssemblyReference.cache
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.Form1.resources
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.Properties.Resources.resources
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.csproj.GenerateResource.Cache
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.exe
+I:\ETEC\2° Modulo\DS I\Rodrigo\solForca\projForca\obj\Debug\projForca.pdb
+H:\2°módulo\PC1\C#\Interface\solForca\projForca\bin\Debug\projForca.exe.config
+H:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.exe
+H:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.pdb
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\bin\Debug\projForca.exe.config
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.exe
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.pdb
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\bin\Debug\projForca.exe
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\bin\Debug\projForca.pdb
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.csprojResolveAssemblyReference.cache
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.Form1.resources
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.Properties.Resources.resources
+I:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.csproj.GenerateResource.Cache
+E:\2°módulo\PC1\C#\Interface\solForca\projForca\bin\Debug\projForca.exe.config
+E:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.exe
+E:\2°módulo\PC1\C#\Interface\solForca\projForca\obj\Debug\projForca.pdb

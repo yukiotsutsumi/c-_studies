@@ -1,0 +1,9 @@
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\bin\Debug\Agenda.exe.config
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\bin\Debug\Agenda.exe
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\bin\Debug\Agenda.pdb
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\obj\Debug\Agenda.FrmAgenda.resources
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\obj\Debug\Agenda.exe
+E:\2°módulo\PC1\C#\Interface\Agenda\Agenda\obj\Debug\Agenda.pdb

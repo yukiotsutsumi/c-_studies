@@ -1,0 +1,4 @@
+C:\Users\street_labs\Desktop\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\street_labs\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.Fibonacci.resources
+C:\Users\street_labs\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.Properties.Resources.resources
+C:\Users\street_labs\Desktop\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.GenerateResource.Cache

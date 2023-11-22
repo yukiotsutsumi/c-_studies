@@ -1,0 +1,9 @@
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\bin\Debug\ClicaBotão.exe.config
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\bin\Debug\ClicaBotão.exe
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\bin\Debug\ClicaBotão.pdb
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\obj\Debug\ClicaBotão.csprojResolveAssemblyReference.cache
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\obj\Debug\ClicaBotão.frmClicaBotão.resources
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\obj\Debug\ClicaBotão.Properties.Resources.resources
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\obj\Debug\ClicaBotão.csproj.GenerateResource.Cache
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\obj\Debug\ClicaBotão.exe
+C:\Users\Street_Labs\Desktop\ClicaBotão\ClicaBotão\obj\Debug\ClicaBotão.pdb

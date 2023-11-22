@@ -1,0 +1,20 @@
+C:\Users\street_labs\Desktop\solAbas\projAbas\bin\Debug\projAbas.exe.config
+C:\Users\street_labs\Desktop\solAbas\projAbas\bin\Debug\projAbas.exe
+C:\Users\street_labs\Desktop\solAbas\projAbas\bin\Debug\projAbas.pdb
+C:\Users\street_labs\Desktop\solAbas\projAbas\obj\Debug\projAbas.csprojResolveAssemblyReference.cache
+C:\Users\street_labs\Desktop\solAbas\projAbas\obj\Debug\projAbas.Form1.resources
+C:\Users\street_labs\Desktop\solAbas\projAbas\obj\Debug\projAbas.Properties.Resources.resources
+C:\Users\street_labs\Desktop\solAbas\projAbas\obj\Debug\projAbas.csproj.GenerateResource.Cache
+C:\Users\street_labs\Desktop\solAbas\projAbas\obj\Debug\projAbas.exe
+C:\Users\street_labs\Desktop\solAbas\projAbas\obj\Debug\projAbas.pdb
+C:\Users\street_labs\Desktop\solAbas\projAbas\obj\Debug\projAbas.abas.resources
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\bin\Debug\projAbas.exe.config
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\obj\Debug\projAbas.exe
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\obj\Debug\projAbas.pdb
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\bin\Debug\projAbas.exe
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\bin\Debug\projAbas.pdb
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\obj\Debug\projAbas.csprojResolveAssemblyReference.cache
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\obj\Debug\projAbas.abas.resources
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\obj\Debug\projAbas.Form1.resources
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\obj\Debug\projAbas.Properties.Resources.resources
+F:\2°módulo (NUNCA ENTRE AQUI DE NOVO)\PC1\C#\Interface\solAbas\projAbas\obj\Debug\projAbas.csproj.GenerateResource.Cache
