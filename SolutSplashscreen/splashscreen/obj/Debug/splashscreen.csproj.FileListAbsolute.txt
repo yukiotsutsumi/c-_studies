@@ -1,0 +1,96 @@
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.pdb
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csprojResolveAssemblyReference.cache
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.splash_screen.resources
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.login.resources
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Properties.Resources.resources
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csproj.GenerateResource.Cache
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.exe
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.pdb
+J:\3º Módulo\PC2\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+J:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.exe
+J:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.pdb
+C:\Users\Street-Labs\Desktop\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.formmenu.resources
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.exe
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.pdb
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.pdb
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csprojResolveAssemblyReference.cache
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.splash_screen.resources
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.login.resources
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.formmenu.resources
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Properties.Resources.resources
+D:\3º Módulo\PC2\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csproj.GenerateResource.Cache
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.exe
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.pdb
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.pdb
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csprojResolveAssemblyReference.cache
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.splash_screen.resources
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.login.resources
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.formmenu.resources
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Properties.Resources.resources
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csproj.GenerateResource.Cache
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.exe
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.pdb
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.pdb
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csprojResolveAssemblyReference.cache
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.splash_screen.resources
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.login.resources
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.formmenu.resources
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Properties.Resources.resources
+K:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csproj.GenerateResource.Cache
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.exe
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.pdb
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.pdb
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csprojResolveAssemblyReference.cache
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.splash_screen.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.login.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.formmenu.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Properties.Resources.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.csproj.GenerateResource.Cache
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.FormRelatorio.resources
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\RdlCompile.cache
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\RdlCompile.compiled
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.FormIncluir.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\Microsoft.SqlServer.Types.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.FormIncluir.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.FormRelatorio.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Form_excluir.resources
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\RdlCompile.cache
+J:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\RdlCompile.compiled
+E:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\bin\Debug\splashscreen.exe.config
+E:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.exe
+E:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.pdb
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Form_excluir.resources
+D:\3º Módulo\PC2(C#)\SolutSplashscreen\splashscreen\obj\Debug\splashscreen.Form_alterar.resources
